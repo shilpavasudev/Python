@@ -28,24 +28,17 @@
 #areasquare =square(int(input("please enter the length of the square: ")))
 #print(areasquare.area())
 
-
-
 #3
-
 #class Listselect():
 #	def Sumofthree(self,lists):
-		
 #		for i in range(0,len(lists)):
 #			firstnum = lists[i]
 #			for j in range(i+1,len(lists)):
-#				secondnum =lists[j]
+#				 secondnum =lists[j]
 #				for k in range(j+1,len(lists)):
 #					thirdnum = lists[k]
 #					if int(firstnum + secondnum + thirdnum) == 0:
-
 #						print(lists[i],lists[j],lists[k])
-
-				
 #list = [-25,-10,-7,-3,2,4,8,10]
 #s1 = Listselect()
 #s1.Sumofthree(list)

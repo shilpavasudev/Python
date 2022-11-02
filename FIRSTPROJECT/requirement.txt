@@ -1,0 +1,6 @@
+asgiref @ file:///tmp/build/80754af9/asgiref_1625643473416/work
+Django @ file:///tmp/build/80754af9/django_1625585912945/work
+psycopg2 @ file:///Users/runner/miniforge3/conda-bld/psycopg2-split_1667025632997/work
+pytz==2022.5
+sqlparse==0.4.3
+typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
