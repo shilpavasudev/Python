@@ -64,7 +64,7 @@
 #10
 #a = input('enter some comma seperated numbers')
 #list1 = a.split(",")
-#tuple1 = tuple(list)
+#tuple1 = tuple(list1)
 #print('lists are : ',list1)
 #print('tuples are : ',tuple1)
 
