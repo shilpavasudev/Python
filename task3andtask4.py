@@ -14,7 +14,12 @@
 
 #list3 = [1,4,2,3,2,4]
 #print(sum(list3))
-#print(mul(list3))
+list3 = [1,4,2,3,2,4]
+print(sum(list3))
+a = 1
+for i in list3:
+    a = mul(i, a)
+print(a)
 
 #4
 
